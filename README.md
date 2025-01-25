@@ -179,7 +179,7 @@ show dbs
 ---
 
 <div align="center">
-  <p>Built with ❤️ by Team</p>
+  <p></p>
   <p>
     <a href="https://github.com/your-repo">Github</a> •
     <a href="https://your-demo-url.com">Live Demo</a> •
