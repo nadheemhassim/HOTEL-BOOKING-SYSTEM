@@ -181,8 +181,6 @@ show dbs
 <div align="center">
   <p></p>
   <p>
-    <a href="https://github.com/your-repo">Github</a> •
-    <a href="https://your-demo-url.com">Live Demo</a> •
-    <a href="docs/api.md">API Docs</a>
+    
   </p>
 </div> 
